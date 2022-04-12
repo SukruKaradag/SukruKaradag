@@ -13,6 +13,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukrukaradag" alt="sukrukaradag" /></a> </p>
 
 ### My Latest Medium posts
+
+# My Latest Medium posts:
 <!-- BLOG-POST-LIST:START -->
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
 <!-- BLOG-POST-LIST:END -->
