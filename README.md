@@ -14,9 +14,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrukaradag&show_icons=true&locale=en&layout=compact" alt="sukrukaradag" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrukaradag&show_icons=true&locale=en&layout=compact" alt="sukrukaradag" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
 ### My Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
