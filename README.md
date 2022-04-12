@@ -15,11 +15,11 @@
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrukaradag&show_icons=true&locale=en&layout=compact" alt="sukrukaradag" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
+
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
 
 ### My Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
