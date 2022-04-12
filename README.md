@@ -23,7 +23,7 @@
 
 <a href="https://linkedin.com/in/sukru-karadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukru-karadag" height="30" width="40" /></a>
 <a href="https://medium.com/@sukrukaradag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukrukaradag" height="30" width="40" /></a>
-</p>
+
 <a href="https://instagram.com/sukru.karadagg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukru.karadagg" height="30" width="40" /></a>
 
 
