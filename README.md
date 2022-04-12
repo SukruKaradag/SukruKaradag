@@ -27,6 +27,6 @@
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" />
 <p align="center" font-size="20%", font-family="courier",>"<strong><sub>This <sub>page <sub></sub></sub>is</sub> under <sub>construc<sub>tion</sub></sub>."</strong></p>
