@@ -25,4 +25,4 @@
 <!-- BLOG-POST-LIST:START -->
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
 <!-- BLOG-POST-LIST:END -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
