@@ -29,8 +29,4 @@
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br>
-<div style="font-style: italic; text-align: center;" markdown="1">
-
-denemeemeeeerererr
-
-</div>
+<p style= "align: center; font-style: italic; font-size:20%; font-family:courier;"> This page is under construction :)) </p>
