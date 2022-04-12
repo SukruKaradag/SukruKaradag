@@ -20,8 +20,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
-### This page is under construction :))
-
+<p align="right"> This page is under construction :)) </p>
 
 ### My Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
