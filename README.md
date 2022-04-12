@@ -34,5 +34,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
 ![](https://komarev.com/ghpvc/?username=SukruKaradag&color=green)
-
-<p>align="center" src="https://komarev.com/ghpvc/?username=SukruKaradag&color=green" alt="sukrukaradag" /></p>
