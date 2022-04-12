@@ -28,5 +28,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br>
 <p align="center" font-size="20%", font-family="courier",>"<strong><sub>This <sub>page <sub></sub></sub>is</sub> under <sub>construc<sub>tion</sub></sub>."</strong></p>
