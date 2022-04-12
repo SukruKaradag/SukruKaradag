@@ -6,6 +6,10 @@
 **SukruKaradag/SukruKaradag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Şükrü</h1>
+### My Latest Medium Posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="center">A passionate DevOps learner from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
@@ -29,10 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
----
-### Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=SukruKaradag&color=green)
