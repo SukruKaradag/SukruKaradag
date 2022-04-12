@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Şükrü</h1>
+<h1 align="left">Hi 👋, I'm Şükrü. To connect with me:</h1>
+
+<a href="https://linkedin.com/in/sukru-karadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukru-karadag" height="30" width="40" /></a>
+<a href="https://medium.com/@sukrukaradag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukrukaradag" height="30" width="40" /></a>
+</p>
 
 
 
@@ -24,9 +28,5 @@
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">To connect with me:</h3>
-<a href="https://linkedin.com/in/sukru-karadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukru-karadag" height="30" width="40" /></a>
-<a href="https://medium.com/@sukrukaradag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sukrukaradag" height="30" width="40" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> </p>
