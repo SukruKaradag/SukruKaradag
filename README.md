@@ -22,7 +22,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" /></p>
 
 
-
 ### My Latest Medium posts:
 <!-- BLOG-POST-LIST:START -->
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
@@ -30,4 +29,4 @@
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br>
-<p align="center", font-style="italic", font-size="20%", font-family="courier",> This page is under construction :)) </p>
+<p align="center", font-style="italic", font-size="20%", font-family="courier",> This page is under <strong>construction</strong> :)) </p>
