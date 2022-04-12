@@ -29,4 +29,4 @@
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br>
-<p align="center" font-size="20%", font-family="courier",>"<strong>This <sub>page <sub>is <sub>under <sub>construction</sub></sub></sub></sub>"</strong></p>
+<p align="center" font-size="20%", font-family="courier",>"<strong><sub>This <sub>page <sub>is</sub></sub></sub> under <sub>construc<sub>tion</sub></sub>."</strong></p>
