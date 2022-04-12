@@ -1,5 +1,3 @@
-### Hi there, I'm Sukru 👋
-
 <h1 align="left">Hi 👋, I'm Şükrü</h1>
 
 
