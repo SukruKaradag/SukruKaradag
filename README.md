@@ -29,4 +29,4 @@
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br>
-<p align="center" font-size="20%", font-family="courier",>"This page is under <strong>const</strong><sub>ruct<sub>io</sub>n</sub>"</p>
+<p align="center" font-size="20%", font-family="courier",>"<strong>This <sub>page</sub> <sub>is</sub> <sub>under</sub> <sub>construction</sub>"</strong></p>
