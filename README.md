@@ -18,7 +18,7 @@
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukrukaradag&show_icons=true&locale=en" alt="sukrukaradag" />
-  <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b> <b>
+ 
 <h3 align="left">To connect with me:</h3>
 
 <a href="https://linkedin.com/in/sukru-karadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukru-karadag" height="30" width="40" /></a>
