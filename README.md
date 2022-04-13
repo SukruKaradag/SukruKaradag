@@ -28,5 +28,5 @@
 <a href="https://stackoverflow.com/users/18793824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18793824" height="30" width="40" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br> <br> <br> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrukaradag&label=Profile%20views&color=0e75b6&style=flat" alt="sukrukaradag" /> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br>
 <p align="center" font-size="20%", font-family="courier",>"<strong><sub>This <sub>page <sub></sub></sub>is</sub> under <sub>construc<sub>tion</sub></sub>."</strong></p>
