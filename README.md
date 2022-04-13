@@ -12,7 +12,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
 <!-- BLOG-POST-LIST:END -->
-<b>
+<b> <b> <b> <b>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrukaradag&show_icons=true&locale=en&layout=compact" alt="sukrukaradag" /></p>
 
 
