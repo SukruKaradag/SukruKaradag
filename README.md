@@ -10,8 +10,8 @@
 
 ### 📗 My latest Medium posts:
 <!-- BLOG-POST-LIST:START -->
+- [Docker, Docker Compose Ve Docker Swarm İçin Notlar.](https://sukrukaradag.medium.com/docker-docker-compose-ve-docker-swarm-i%CC%87%C3%A7in-notlar-1d8c5f5b2757?source=rss-2260bdf56748------2)
 - [DevOps İçin Kullanışlı Linux Komutları](https://sukrukaradag.medium.com/devops-i%CC%87%C3%A7in-kullan%C4%B1%C5%9Fl%C4%B1-linux-komutlar%C4%B1-7eab52870152?source=rss-2260bdf56748------2)
-
 <!-- BLOG-POST-LIST:END -->
 
 
